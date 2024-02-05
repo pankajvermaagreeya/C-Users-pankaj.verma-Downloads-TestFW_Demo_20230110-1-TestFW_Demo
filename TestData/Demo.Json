@@ -1,0 +1,13 @@
+﻿{
+  "TestDataModel": {
+    "DemoModel": {
+      "URL": "https://ecommerce-playground.lambdatest.io/",
+      "Username": "Username",
+      "Password": "Password"
+    },
+    "MainPageModel": {
+      "SearchInputValue": "Apple",
+      "Item": "iPod Touch"
+    }
+    }
+}
